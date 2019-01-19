@@ -122,7 +122,6 @@ public class MakeListTest {
         result = addTest(node50, node60);
 
         System.out.println(result.getId());
-
     }
 }
 
