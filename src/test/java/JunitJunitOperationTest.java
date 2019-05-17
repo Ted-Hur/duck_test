@@ -18,6 +18,6 @@ public class JunitJunitOperationTest {
 
     @Test
     public void junitOperationTest2(){
-        Assert.assertEquals(junitOperationTest.jnitOperationTest(1), 1);
+        Assert.assertEquals(junitOperationTest.jnitOperationTest(2), 3);
     }
 }
