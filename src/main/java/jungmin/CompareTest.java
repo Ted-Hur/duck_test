@@ -1,4 +1,4 @@
-package jungmin.java.test;
+package jungmin;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,3 +1,7 @@
+package jungmin;
+
+import jungmin.model.User;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -58,14 +62,3 @@ public class LambdaTest {
     }
 }
 
-class User{
-    private String id;
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-}
