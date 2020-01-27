@@ -1,6 +1,6 @@
-package jungmin;
+package lab;
 
-import jungmin.model.User;
+import model.User;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package jungmin;
+package lab;
 
 import java.util.ArrayList;
 import java.util.List;
