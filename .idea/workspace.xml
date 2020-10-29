@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc02bf5c-4ede-4b35-8f22-8add61fcbf58" name="Default Changelist" comment="test codes">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test_artifact$Test.ic" NAME="Test Coverage Results" MODIFIED="1542117201829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="207" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T4CY07py8qMpPTvl0a93GL12pf" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572709527137" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/jungmin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jungmin" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamTest">
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.MapTest" />
+      <module name="duck_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.MathTest" />
+      <module name="duck_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.PriorityQueueTest" />
+      <module name="duck_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.QueueTest" />
+      <module name="duck_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.StreamTest" />
+      <module name="duck_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MapTest" />
+      <item itemvalue="Application.PriorityQueueTest" />
+      <item itemvalue="Application.MathTest" />
+      <item itemvalue="Application.QueueTest" />
+      <item itemvalue="Application.StreamTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamTest" />
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.MathTest" />
+        <item itemvalue="Application.PriorityQueueTest" />
+        <item itemvalue="Application.MapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc02bf5c-4ede-4b35-8f22-8add61fcbf58" name="Default Changelist" comment="" />
+      <created>1542113990872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542113990872</updated>
+      <workItem from="1542113995370" duration="4752000" />
+      <workItem from="1542718437823" duration="1258000" />
+      <workItem from="1542719833304" duration="1451000" />
+      <workItem from="1542808232101" duration="5680000" />
+      <workItem from="1543547861012" duration="746000" />
+      <workItem from="1544017171750" duration="18000" />
+      <workItem from="1544017294744" duration="2074000" />
+      <workItem from="1544446577578" duration="630000" />
+      <workItem from="1544790555808" duration="3550000" />
+      <workItem from="1544969003429" duration="131000" />
+      <workItem from="1545055590541" duration="73000" />
+      <workItem from="1547907096787" duration="80000" />
+      <workItem from="1558704025291" duration="2795000" />
+      <workItem from="1558748310392" duration="774000" />
+      <workItem from="1559056994200" duration="176000" />
+      <workItem from="1559130000676" duration="445000" />
+      <workItem from="1559572011461" duration="2045000" />
+      <workItem from="1560522883754" duration="1615000" />
+      <workItem from="1563541210217" duration="1592000" />
+      <workItem from="1563585237548" duration="657000" />
+      <workItem from="1564143389494" duration="2314000" />
+      <workItem from="1564191377474" duration="3034000" />
+      <workItem from="1565360215614" duration="447000" />
+      <workItem from="1565529528857" duration="680000" />
+      <workItem from="1565532995586" duration="787000" />
+      <workItem from="1569586784277" duration="960000" />
+      <workItem from="1570252614802" duration="1054000" />
+      <workItem from="1571229257550" duration="2477000" />
+      <workItem from="1571311290720" duration="564000" />
+      <workItem from="1571494450773" duration="1248000" />
+      <workItem from="1572079368128" duration="862000" />
+      <workItem from="1572145489813" duration="229000" />
+      <workItem from="1572607330020" duration="763000" />
+      <workItem from="1572708716224" duration="815000" />
+      <workItem from="1572709557654" duration="374000" />
+      <workItem from="1572710030801" duration="284000" />
+      <workItem from="1572869336736" duration="332000" />
+      <workItem from="1573196770699" duration="15000" />
+      <workItem from="1574865336130" duration="253000" />
+      <workItem from="1577368465944" duration="453000" />
+      <workItem from="1577966314190" duration="2455000" />
+      <workItem from="1578108877699" duration="1482000" />
+      <workItem from="1580102065826" duration="701000" />
+      <workItem from="1603727065652" duration="409000" />
+      <workItem from="1603727492351" duration="251000" />
+      <workItem from="1603727759713" duration="290000" />
+      <workItem from="1603980328240" duration="784000" />
+    </task>
+    <task id="LOCAL-00001" summary="test codes">
+      <created>1558104911508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558104911508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test codes">
+      <created>1558705895225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558705895225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test codes">
+      <created>1558705963083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558705963083</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test codes">
+      <created>1558706246157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558706246157</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test codes">
+      <created>1558706341592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558706341592</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test codes">
+      <created>1558706408460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558706408460</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test codes">
+      <created>1558706963897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558706963897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2018.11.13 at 22h 53m 25s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitTest - 2018.11.13 at 22h 54m 53s.xml">
+      <configuration name="JunitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitJunitOperationTest - 2018.11.20 at 22h 00m 09s.xml">
+      <configuration name="JunitJunitOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitJunitOperationTest - 2018.11.20 at 22h 11m 14s.xml">
+      <configuration name="JunitJunitOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitJunitOperationTest - 2018.11.20 at 22h 12m 17s.xml">
+      <configuration name="JunitJunitOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitJunitOperationTest - 2018.11.20 at 22h 14m 55s.xml">
+      <configuration name="JunitJunitOperationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitJunitOperationTest_junitOperationTest1 - 2018.11.21 at 22h 50m 54s.xml">
+      <configuration name="JunitJunitOperationTest.junitOperationTest1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="test codes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MakeListTest.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MakeListTest.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lab/ExtendTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TreeSetTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="result.nodeList" />
+        <watch expression="result.nodeList" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test_artifact</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile1" value="file://$PROJECT_DIR$/../data_migration.suml" />
+      <option name="knownFile2" value="file://$PROJECT_DIR$/../diagram.suml" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../classdiagram.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
