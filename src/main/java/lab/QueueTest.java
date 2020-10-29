@@ -1,6 +1,8 @@
 package lab;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 public class QueueTest {
@@ -24,5 +26,7 @@ public class QueueTest {
         System.out.println("The first element is: " + q.peek());
         // 7. Get the size of the queue.
         System.out.println("The size is: " + q.size());
+
+
     }
 }

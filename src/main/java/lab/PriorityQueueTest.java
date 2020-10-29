@@ -31,13 +31,14 @@ public class PriorityQueueTest {
 
     private static PriorityQueue<Point> getPriorityQueue() {
         Point p1 = new Point(1,3,3);
-        Point p5 = new Point(5,1,1);
-        Point p4 = new Point(4,1,6);
-        Point p2 = new Point(2,-3,5);
-        Point p3 = new Point(3,1,2);
+        Point p2 = new Point(5,1,1);
+        Point p3 = new Point(4,1,6);
+        Point p4 = new Point(2,-3,5);
+        Point p5 = new Point(3,1,2);
         Point p6 = new Point(6,3,2);
 
-        PriorityQueue<Point> pq = new PriorityQueue<>(6, (a,b)->a.x - b.x);
+        PriorityQueue<Point> pq = new PriorityQueue<>(6, (a,b)->
+                a.x == b.x ? b.y - a.y : a.x - b.x); //x오름차순, 만약 x가 같으면 y내림차순
         pq.offer(p1);
         pq.offer(p2);
         pq.offer(p3);
